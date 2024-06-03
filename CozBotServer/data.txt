@@ -1,0 +1,109 @@
+The provided data contains information about cozentus.
+
+nomenclature
+COO - Chief Operating Officer
+CEO - Chief Executive Officer
+CGO - Chief Growth Officer
+coo - Chief Operating Officer
+ceo - Chief Executive Officer
+cgo - Chief Growth Officer
+evp - Executive Vice President
+EVP - Executive Vice President
+avp - Associate Vice President
+AVP - Associate Vice President
+
+what is Cozentus
+Cozentus emerges as a pioneering provider of innovative business solutions, revolutionizing operational efficiency for enterprises operating within the logistics       and supply chain management sectors. Our expertise lies in constructing and enhancing the value chain of logistics companies, tailoring our services to align with     our client’s unique business objectives, and leveraging the industry-led and emerging technologies.
+
+Cozentus's Mission
+Enabling businesses to move to the next level by delivering innovative digital SCM solutions.
+
+Cozentus's Core Values
+pride,commitment,quality,transparency
+
+Cozentus's Culture
+Delivering quality through a confluence of experience and innovation.
+
+
+Why Choose Cozentus?
+Expertise and technology are brought to the table.
+Client-centric approach prioritizes your needs and objectives.
+Enables cost savings, improved efficiency, and an unparalleled customer experience.
+Reduces go-to-market time and delivers higher revenue.
+100% Customer retention rate.
+100% Service level agreement compliance.
+24x7 Humanized support/incidence report time.
+20k+ Customer satisfaction score.
+15 min Average resolution time.
+Flexible Engagement model.
+Agile Delivery model.
+70% Technologies mastered and applied.
+
+Contact Cozentus
+Schedule a Meeting: +91 977 712 6600 (India).
+Email: supplychain@cozentus.com.
+Address: SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India.
+
+Cozentus Locations
+Bhubaneswar, India - SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India.
+Bengaluru, India - Galaxy, MG Road, WeWork Galaxy, 43, Residency Rd, Bangalore 560025 Karnataka, India.
+Europe - Ground Floor, Hygeia Building, 66-68 College Road, Harrow Middlesex, HA1 1BE, United Kingdom.
+
+
+Cozentus Core Team
+
+Cozentus Management and Leadership Team
+Devesh Sinha - CEO(Chief Executive Officer) and Founder of cozentus.
+Devesh is a seasoned tech entrepreneur with over 30 years of experience in IT, General Management, and Entrepreneurship. He has a strong background in delivering efficient business solutions in Supply Chain Management and Logistics to the US, UK, and other European markets. Devesh is a leader, speaker, and business consultant, and he also serves on the boards of several Government and Non-government organizations. He holds a B Tech degree from NIT Jamshedpur and is known for his self-discipline.his linkedin 'https://www.linkedin.com/in/devesh-sinha-5b835a/'
+Shailendra Upadhyay - COO(Chief Operating Officer) and Co-Founder of cozentus.
+Shailendra, also known as Shailu, is a highly experienced professional with over two decades of expertise in the domains of manufacturing, steel industry, telecom, power generation, healthcare, supply chain, and logistics. As the co-founder and Chief of Operations at Cozentus, he possesses a deep understanding of these industries, allowing him to foster valuable relationships with global logistics providers. Shailu's diverse background includes stakeholder management, business domain understanding, delivery management, project management, and requirement management. He holds a B.E. in Mechanical Engineering from Karnataka University and firmly believes in the principle of understanding others before seeking to be understood.his linkedin 'https://www.linkedin.com/in/shailendra-upadhyay-21769a4/'
+Rosalin Mohanty - CGO(Chief Growth Officer) and Co-Founder of cozentus.
+Rosalin Mohanty, the proud recipient of the National HRD Women Leadership Award and a certified life and leadership coach, performs a dual role at Cozentus. As a founding member, she drives business growth attracting supply chain service providers to partner with Cozentus while also building and maintaining strong internal teams. With over two decades of experience in developing leadership training interventions across diverse industries like Telecom, Communications, IT, and manufacturing, Rosalin understands how supply chains work and has a strong knowledge of IT and other technologies. She is a strategic planner, an effective business developer, and an efficient business growth executive. Rosalin holds an MBA from the Utkal University in Odisha India and possesses a heart of gold. Cozentus is proud to have her on board.her linkedin 'https://www.linkedin.com/in/rosalinmohanty/'.
+Rajesh Sharma - EVP(Executive Vice President) - Operations of cozentus.
+Rajesh Sharma is the Executive Vice President at Cozentus. With 25+ years of experience in Software Product Strategy, Product Planning, Product Management, Product Development, Application Development & Maintenance, Delivery Management and Pre-sales, he has a solid foundation in creating succesful business plans and strategy .his linkedin 'https://www.linkedin.com/in/rajeshsharma4/'
+Sudhir Mardikar - EVP(Executive Vice President) and Head of Data Practice of cozentus.
+Sudhir heads the Data Analytics and BI practice at Cozentus. With over 20 years of experience in data related technologies, his expertise in designing & developing data warehousing & BI system for logistics & supply chain customers is an asset for Cozentus.his linkedin 'https://www.linkedin.com/in/mardikar/'
+Ranjeet Das - EVP(Executive Vice President) and Head of Technology of cozentus.
+Ranjeet is the Senior Technical Architect at Cozentus. His expertise lies in innovating while creating and designing large enterprise web-based applications, leveraging the various technologies for on-premise as well as cloud hosting.his linkedin 'https://www.linkedin.com/in/ranjeetdas/'
+Siddharth Bihari - AVP(Associate Vice President) and EDI Practice Lead of cozentus.
+Siddharth Kumar Bihari is the Associate Vice President at Cozentus. He has 13+ years of industry experience in Development & Support under EDI technology.  His functional Knowledge and Business Domain Experience: SCM, Logistics is a great asset for any business.his linkedin 'https://www.linkedin.com/in/siddharth-kumar-bihari-ba29a35a'
+Nirupama Ojha - General Manager of cozentus.
+Nirupama is a Senior Technical Architect at Cozentus. She is an innovator with an experience in creating and designing large enterprise web applications using various technologies for on-premise and cloud hosting.her linkedin 'https://in.linkedin.com/in/nirupama-ojha-123bb965'.
+
+Attributes Cozentus Value
+    *Success-driven - Focused on achieving professional growth and success.
+    *Committed - Committed to surmounting every obstacle.
+    *Troubleshooter - Able to plan and design in a stress-free ambience.
+    *Transparent - Believes in complete transparency and free flow of information.
+
+Cozentus List of All Available Job Openings 
+Senior UI Developer (Core Skills: UI and Angular, Experience: 4-8 years)
+Java Senior Software Developer (Core Skills: Java, Microservices, Angular, Spring Framework, Experience: 4-7 years)
+Java Module Lead (Core Skills: Java, Microservices, Angular, Spring Framework, Experience: 8-12 years)
+Lead QC - Automation (Core Skills: Java, Selenium, Experience: 8-12 years)
+Senior QC Engineer (Automation) (Core Skills: Java, Selenium, Experience: 4-7 years)
+Java Technical Architect (Core Skills: Enterprise level design, architecture, Experience: 12-15 years)
+Senior Azure Developer (Core Skills: .Net and Azure, Experience: 5-8 years)
+Senior PHP Developer (Core Skills: PHP, Laravel, Experience: 4-8 years)
+Marketing Head (Core Skills: Marketing, GTM strategy, ABM, Content Strategy, Digital Marketing, Experience: 10-15 years)
+DevOps Lead (Core Skills: DevOps, AWS, Terraform, Experience: 10-15 years)
+Senior Graphic Designer (Core Skills: Graphic Designing, Photoshop, video making, Experience: 4-5 years)
+Senior EDI Developer (Core Skills: EDI, Seeburger BIC & BIS tool, Seeburger Front-end Configuration, Monitoring, Queuing, Experience: 7-10 years)
+Senior D 365 Developer (Core Skills: D365 FO, Finance Module, Connectivity Studio, Data Model, Power App, X++, Data Management, Experience: 5-10 years)
+BI Developer (Core Skills: Database Development (Any), Dataware Housing, BI reporting (Any), Cloud Technology (Any), Experience: 3-5 years)
+Senior BI Developer (Core Skills: Database Development (Any), Dataware Housing, BI reporting (Any), Cloud Technology (Any), Experience: 5-10 years).
+
+
+what cozetnus do or what are services offered by cozentus:
+The Below list contains information about all offerings and services provided by cozentus
+Enterprise Data Management Services: Collect, clean, validate, and transform data for a single source of truth in supply chain intelligence.
+Integrations: Seamlessly connect and optimize supply chain operations with EDI, API, and system integrations to enhance data flow, streamline processes.
+Testing as a Service: Customized testing approach for supply chain systems driving digital transformation, fostering accelerated growth, and maximizing                efficiency.
+Data Lifecycle Management: Embrace AI-driven tools and sophisticated strategies for agile, responsive supply chains.
+Advanced Analytics: Enhancing ocean freight efficiency with advanced, AI-driven analytics.
+Maintenance and Support: Leveraging Technology Expertise for Optimized System Performance.
+EDI: Offers a comprehensive, value-centric approach by identifying intervention areas, crafting bespoke business cases, and integrating advanced analytics and          machine learning.
+
+Specialization: Delivering bespoke solutions to optimize operations and foster growth.
+
+Focus: Understanding customer challenges and seamlessly integrating with existing systems.
