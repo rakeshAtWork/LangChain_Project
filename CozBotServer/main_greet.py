@@ -10,10 +10,10 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.llms import CTransformers
 from langchain.chains import RetrievalQA
 import base64
-
+import datetime
 
 DB_FAISS_PATH = r"db"
-img_path = r"logo2.png"
+img_path = r".\logo\logo2.png"
 
 custom_prompt_template = """Use the following pieces of information to answer the user's question.
 your name is COZBOT.you are very good at greeting people in a helpful and respectful manner and give good responses when someone ends the conversation.
@@ -24,60 +24,59 @@ Context: {context}
 Question: {question}
 
 Only return the helpful answer below and nothing else.
-Helpful answer:
 """
 
- 
+
 def set_custom_prompt():
     """
     Prompt template for QA retrieval for each vectorstore
     """
     prompt = PromptTemplate(template=custom_prompt_template,
-                            input_variables=['context', 'question'])
-   
-    # prompt = prompt_t
+                             input_variables=['context', 'question'])
     return prompt
- 
-# Retrieval QA Chain
-def retrieval_qa_chain(llm, prompt, db):
-    qa_chain = RetrievalQA.from_chain_type(llm=llm,
-                                       chain_type='stuff',
-                                       retriever=db.as_retriever(search_kwargs={'k': 2}),
-                                       return_source_documents=True,
-                                       chain_type_kwargs={'prompt': prompt}
-                                       )
-    return qa_chain
- 
-# Loading the model
-def load_llm():
-    llm = Ollama(model='llama3')
-    return llm
- 
-# QA Model Function
+
+
+# Loading the model (load outside function for caching)
+llm = Ollama(model='llama2')
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2",
+                                    model_kwargs={'device': 'cpu'})
+
+
 def qa_bot():
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2",
-                                       model_kwargs={'device': 'cpu'})
+    # Load FAISS index once
     db = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
-    llm = load_llm()
+
     qa_prompt = set_custom_prompt()
-    qa = retrieval_qa_chain(llm, qa_prompt, db)
+    qa = RetrievalQA.from_chain_type(llm=llm,
+                                     chain_type='stuff',
+                                     retriever=db.as_retriever(search_kwargs={'k': 2}),
+                                     return_source_documents=True,
+                                     chain_type_kwargs={'prompt': qa_prompt}
+                                     )
     return qa
- 
-# Output function
+
+
+# Response cache (consider adding expiration)
+response_cache = {}
+
+
 def final_result(query):
+    if query in response_cache:
+        return response_cache[query]
+
     qa_result = qa_bot()
     response = qa_result.invoke({'query': query})
+    response_cache[query] = response
     return response
- 
+
+
 def get_base64_of_bin_file(bin_file):
     with open(bin_file, 'rb') as f:
         data = f.read()
-    return base64.b64encode(data).decode() 
+    return base64.b64encode(data).decode()
+
 
 # Streamlit UI
-# Add CSS for fixed header
- 
-# Main content with padding
 st.set_page_config(page_title="CozBot", page_icon=":robot_face:")
 
 img_base64 = get_base64_of_bin_file(img_path)
@@ -113,27 +112,47 @@ st.markdown(
 # Main content with padding
 st.markdown('<div class="main-content">', unsafe_allow_html=True)
 
+# Initialize session state
+
+
+
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
- 
+
+    # Personalize greeting based on time of day
+    current_time = st.session_state.get("current_time", None)  # Cache time for efficiency
+
+    if not current_time:
+        current_time = datetime.datetime.now().hour
+
+    if 5 <= current_time < 12:
+        greeting = "Good morning!"
+    elif 12 <= current_time < 17:
+        greeting = "Good afternoon!"
+    else:
+        greeting = "Good evening!"
+
+    st.session_state.messages.append({"role": "assistant", "content": greeting + " Welcome to CozBot! How can I assist you today?"})
+
 # Display existing messages
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
- 
+
 # Handle user input and responses
 if user_input := st.chat_input("Hello?"):
     st.session_state.messages.append({"role": "user", "content": user_input})
     with st.chat_message("user"):
         st.markdown(user_input)
     print(user_input)
-    
+
     with st.spinner('Thinking ...'):
-        response = final_result(user_input) 
-   
+        response = final_result(user_input)
+
     with st.chat_message("assistant"):
         st.markdown(response['result'])
         st.session_state.messages.append({"role": "assistant", "content": response['result']})
     print(response['result'])
-    
+
 st.markdown('</div>', unsafe_allow_html=True)

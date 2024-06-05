@@ -4,7 +4,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
 DATA_PATH = r"D:\Data Science and DSA\Data Science At Ineauron\3. Machine Learning\LangChain\LangChain_Project\CozBotServer"
-DB_FAISS_PATH = r"D:\Data Science and DSA\Data Science At Ineauron\3. Machine Learning\LangChain\LangChain_Project\CozBotServer"
+DB_FAISS_PATH = r"D:\Data Science and DSA\Data Science At Ineauron\3. Machine Learning\LangChain\LangChain_Project\CozBotServer\db"
 
 
 def create_vector_db(DATA_PATH):

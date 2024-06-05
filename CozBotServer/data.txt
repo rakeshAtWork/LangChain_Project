@@ -1,109 +1,700 @@
-The provided data contains information about cozentus.
+{
+        "question":"[
+      "Hi",
+      "How are you?",
+      "Is anyone there?",
+      "Hello",
+      "Good day",
+      "What's up",
+      "how are ya",
+      "heyy",
+      "whatsup",
+      "??? ??? ??"]",
+      "answers":"[
+      "Hello!",
+      "Good to see you again!",
+      "Hi there, how can I help?"]"
+      },
+{
+        "question": "What are the values of Cozentus?",
+        "answer": "The core values of Cozentus are pride, commitment, quality, and transparency."
+    },
+    {
+        "question": "What are the available positions?",
+        "answer": "The available positions at Cozentus are Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "Are there any job openings?",
+        "answer": "Yes, there are several job openings at Cozentus. Current positions include Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "What employment opportunities do you have?",
+        "answer": "Cozentus offers various employment opportunities in positions such as Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "What positions are currently open?",
+        "answer": "The currently open positions at Cozentus include Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "How can I join your team?",
+        "answer": "To join the Cozentus team, you can apply for the available positions listed on their careers page. Current openings include roles such as Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "Do you have any job vacancies?",
+        "answer": "Yes, Cozentus has several job vacancies. These include positions like Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "What career options do you offer?",
+        "answer": "Cozentus offers career options in various roles such as Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "Are there any opportunities for employment?",
+        "answer": "Yes, there are several opportunities for employment at Cozentus. The available positions include Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "What are your current job listings?",
+        "answer": "The current job listings at Cozentus include Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "How can I work with you?",
+        "answer": "To work with Cozentus, you can apply for the open positions listed on their careers page. The current openings include Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "Are there any openings for employment?",
+        "answer": "Yes, there are openings for employment at Cozentus. The positions currently available are Senior UI Developer, Java Senior Software Developer, Java Module Lead, Lead QC - Automation, Senior QC Engineer (Automation), Java Technical Architect, Senior Azure Developer, Senior PHP Developer, Marketing Head, DevOps Lead, Senior Graphic Designer, Senior EDI Developer, Senior D 365 Developer, and BI Developer."
+    },
+    {
+        "question": "Is there any Java developer available?",
+        "answer": "Yes, Cozentus is hiring Java developers. The available positions for Java developers include Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Do you have openings for Java developers?",
+        "answer": "Yes, there are openings for Java developers at Cozentus. The available positions include Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Are you hiring Java developers?",
+        "answer": "Yes, Cozentus is hiring Java developers. The available positions include Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Any job opportunities for Java developers?",
+        "answer": "Yes, there are job opportunities for Java developers at Cozentus. The available positions include Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Looking for Java developer positions, are there any?",
+        "answer": "Yes, there are Java developer positions available at Cozentus. The current openings are Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Can I apply for a Java developer role?",
+        "answer": "Yes, you can apply for a Java developer role at Cozentus. The available positions are Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Are there any vacancies for Java developers?",
+        "answer": "Yes, there are vacancies for Java developers at Cozentus. The current openings include Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Is Cozentus recruiting Java developers?",
+        "answer": "Yes, Cozentus is recruiting Java developers. The available positions include Java Senior Software Developer, Java Module Lead, and Java Technical Architect."
+    },
+    {
+        "question": "Do you have any positions for PHP developers?",
+        "answer": "Yes, there are positions available for PHP developers at Cozentus. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Are PHP developer roles available?",
+        "answer": "Yes, PHP developer roles are available at Cozentus. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Any job openings for PHP developers?",
+        "answer": "Yes, there are job openings for PHP developers at Cozentus. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Looking for PHP developer positions, are there any?",
+        "answer": "Yes, there are PHP developer positions available at Cozentus. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Can I apply for a PHP developer role?",
+        "answer": "Yes, you can apply for a PHP developer role at Cozentus. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Are there any vacancies for PHP developers?",
+        "answer": "Yes, there are vacancies for PHP developers at Cozentus. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Is Cozentus recruiting PHP developers?",
+        "answer": "Yes, Cozentus is recruiting PHP developers. The current opening is for a Senior PHP Developer."
+    },
+    {
+        "question": "Do you have openings for DevOps engineers?",
+        "answer": "Yes, there are openings for DevOps engineers at Cozentus. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Are you hiring DevOps engineers?",
+        "answer": "Yes, Cozentus is hiring DevOps engineers. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Any job opportunities for DevOps engineers?",
+        "answer": "Yes, there are job opportunities for DevOps engineers at Cozentus. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Looking for DevOps engineer positions, are there any?",
+        "answer": "Yes, there are DevOps engineer positions available at Cozentus. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Can I apply for a DevOps engineer role?",
+        "answer": "Yes, you can apply for a DevOps engineer role at Cozentus. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Are there any vacancies for DevOps engineers?",
+        "answer": "Yes, there are vacancies for DevOps engineers at Cozentus. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Is Cozentus recruiting DevOps engineers?",
+        "answer": "Yes, Cozentus is recruiting DevOps engineers. The current opening is for a DevOps Lead."
+    },
+    {
+        "question": "Do you have any positions for graphic designers?",
+        "answer": "Yes, there are positions available for graphic designers at Cozentus. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Are graphic designer roles available?",
+        "answer": "Yes, graphic designer roles are available at Cozentus. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Any job openings for graphic designers?",
+        "answer": "Yes, there are job openings for graphic designers at Cozentus. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Looking for graphic designer positions, are there any?",
+        "answer": "Yes, there are graphic designer positions available at Cozentus. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Can I apply for a graphic designer role?",
+        "answer": "Yes, you can apply for a graphic designer role at Cozentus. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Are there any vacancies for graphic designers?",
+        "answer": "Yes, there are vacancies for graphic designers at Cozentus. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Is Cozentus recruiting graphic designers?",
+        "answer": "Yes, Cozentus is recruiting graphic designers. The current opening is for a Senior Graphic Designer."
+    },
+    {
+        "question": "Who is Devesh Sinha?",
+        "answer": "Devesh Sinha is the CEO and Founder of Cozentus, with over 30 years of experience in IT and entrepreneurship, focusing on efficient business solutions in Supply Chain Management and Logistics."
+    },
+    {
+        "question": "Who is Shailendra Upadhyay?",
+        "answer": "Shailendra Upadhyay is the COO and Co-Founder of Cozentus, with expertise in manufacturing, telecom, power generation, healthcare, supply chain, and logistics, and over two decades of experience."
+    },
+    {
+        "question": "Who is Rosalin Mohanty?",
+        "answer": "Rosalin Mohanty is the CGO and Co-Founder of Cozentus, with over two decades of experience in leadership training across diverse industries, focusing on strategic business growth."
+    },
+    {
+        "question": "Who is Rajesh Sharma?",
+        "answer": "Rajesh Sharma is the EVP Operations at Cozentus, with over 25 years of experience in software product strategy and development."
+    },
+    {
+        "question": "Who is Sudhir Mardikar?",
+        "answer": "Sudhir Mardikar is the EVP and Head of Data Practice at Cozentus, with expertise in data warehousing and BI systems for logistics and supply chain customers."
+    },
+    {
+        "question": "Who is Ranjeet Das?",
+        "answer": "Ranjeet Das is the EVP and Head of Technology at Cozentus, specializing in designing large enterprise web-based applications."
+    },
+    {
+        "question": "Who is Siddharth Bihari?",
+        "answer": "Siddharth Bihari is the AVP and EDI Practice Lead at Cozentus, with over 13 years of experience in EDI technology for SCM and logistics."
+    },
+    {
+        "question": "Who is Nirupama Ojha?",
+        "answer": "Nirupama Ojha is a key member of the Cozentus team, with a significant role in the organization. (Note: Specific details about Nirupama Ojha are not provided in the document.)"
+    },
+    {
+        "question": "Who is the Founder and CEO of Cozentus?",
+        "answer": "The Founder and CEO of Cozentus is Devesh Sinha."
+    },
+    {
+        "question": "Who is the Co-Founder and COO of Cozentus?",
+        "answer": "The Co-Founder and COO of Cozentus is Shailendra Upadhyay."
+    },
+    {
+        "question": "Who is the Co-Founder and CGO of Cozentus?",
+        "answer": "The Co-Founder and CGO of Cozentus is Rosalin Mohanty."
+    },
+    {
+        "question": "Who is the Executive Vice President - Operations at Cozentus?",
+        "answer": "The Executive Vice President - Operations at Cozentus is Rajesh Sharma."
+    },
+    {
+        "question": "Who is the EVP and Head of Data Practice at Cozentus?",
+        "answer": "The EVP and Head of Data Practice at Cozentus is Sudhir Mardikar."
+    },
+    {
+        "question": "Who is the EVP and Head of Technology at Cozentus?",
+        "answer": "The EVP and Head of Technology at Cozentus is Ranjeet Das."
+    },
+    {
+        "question": "Who is the AVP and EDI Practice Lead at Cozentus?",
+        "answer": "The AVP and EDI Practice Lead at Cozentus is Siddharth Bihari."
+    },
+    {
+        "question": "Who is the General Manager at Cozentus?",
+        "answer": "The General Manager at Cozentus is a key member of the leadership team. (Note: Specific details about the General Manager are not provided in the document.)"
+    },
+    {
+        "question": "Who are the Co-Founders of Cozentus?",
+        "answer": "The Co-Founders of Cozentus are Devesh Sinha, Shailendra Upadhyay, and Rosalin Mohanty."
+    },
+    {
+        "question": "Can you introduce me to the leadership team at Cozentus?",
+        "answer": "The leadership team at Cozentus includes Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), and Siddharth Bihari (AVP and EDI Practice Lead)."
+    },
+    {
+        "question": "Who are the key members of the Cozentus team?",
+        "answer": "The key members of the Cozentus team include Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), and Siddharth Bihari (AVP and EDI Practice Lead)."
+    },
+    {
+        "question": "Who are the executives leading Cozentus?",
+        "answer": "The executives leading Cozentus include Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), and Siddharth Bihari (AVP and EDI Practice Lead)."
+    },
+    {
+        "question": "Who are the key figures in the management team at Cozentus?",
+        "answer": "The key figures in the management team at Cozentus include Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), and Siddharth Bihari (AVP and EDI Practice Lead)."
+    },
+    {
+        "question": "Who are the top leaders at Cozentus?",
+        "answer": "The top leaders at Cozentus include Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), and Siddharth Bihari (AVP and EDI Practice Lead)."
+    },
+    {
+        "question": "Can you provide information about the executives at Cozentus?",
+        "answer": "The executives at Cozentus are Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), and Siddharth Bihari (AVP and EDI Practice Lead)."
+    },
+  {
+    "question": "Tell me about the core team at Cozentus.",
+    "answer": "The core team at Cozentus includes Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP - Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), Siddharth Bihari (AVP and EDI Practice Lead), and Nirupama Ojha (General Manager)."
+  },
+  {
+    "question": "Who are the leading personalities at Cozentus?",
+    "answer": "The leading personalities at Cozentus are Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "Could you introduce me to the top management of Cozentus?",
+    "answer": "The top management of Cozentus includes Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "What are the roles of the management team members at Cozentus?",
+    "answer": "The roles of the management team members at Cozentus are as follows: Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP - Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), Siddharth Bihari (AVP and EDI Practice Lead), and Nirupama Ojha (General Manager)."
+  },
+  {
+    "question": "Who are the primary decision-makers at Cozentus?",
+    "answer": "The primary decision-makers at Cozentus are Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "Who are the individuals responsible for driving Cozentus forward?",
+    "answer": "The individuals responsible for driving Cozentus forward include Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "Who are the visionaries behind Cozentus?",
+    "answer": "The visionaries behind Cozentus are Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "Can you tell me about the key team members driving Cozentus's success?",
+    "answer": "The key team members driving Cozentus's success include Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "Who are the driving forces behind Cozentus's achievements?",
+    "answer": "The driving forces behind Cozentus's achievements are Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "What is the composition of the leadership team at Cozentus?",
+    "answer": "The leadership team at Cozentus is composed of Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP - Operations), Sudhir Mardikar (EVP and Head of Data Practice), Ranjeet Das (EVP and Head of Technology), Siddharth Bihari (AVP and EDI Practice Lead), and Nirupama Ojha (General Manager)."
+  },
+  {
+    "question": "Who are the strategic leaders at Cozentus?",
+    "answer": "The strategic leaders at Cozentus are Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder)."
+  },
+  {
+    "question": "How do I get the location of Cozentus?",
+    "answer": "Cozentus has locations in Bhubaneswar, India (SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India), Bengaluru, India (Galaxy, MG Road, WeWork Galaxy, 43, Residency Rd, Bangalore 560025 Karnataka, India), and Europe (Ground Floor, Hygeia Building, 66-68 College Road, Harrow Middlesex, HA1 1BE, United Kingdom)."
+  },
+  {
+    "question": "What is your email address?",
+    "answer": "The email address for Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "How can I email you?",
+    "answer": "You can email Cozentus at supplychain@cozentus.com."
+  },
+  {
+    "question": "What is your email?",
+    "answer": "The email for Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "Do you have an email I can use to contact you?",
+    "answer": "Yes, you can contact Cozentus at supplychain@cozentus.com."
+  },
+  {
+    "question": "Can I email you?",
+    "answer": "Yes, you can email Cozentus at supplychain@cozentus.com."
+  },
+  {
+    "question": "How do I reach you via email?",
+    "answer": "You can reach Cozentus via email at supplychain@cozentus.com."
+  },
+  {
+    "question": "What's the best email to reach your team?",
+    "answer": "The best email to reach the Cozentus team is supplychain@cozentus.com."
+  },
+  {
+    "question": "Can you provide your email contact?",
+    "answer": "The email contact for Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "What email should I use to get in touch?",
+    "answer": "You should use supplychain@cozentus.com to get in touch with Cozentus."
+  },
+  {
+    "question": "How do I send an email inquiry?",
+    "answer": "You can send an email inquiry to Cozentus at supplychain@cozentus.com."
+  },
+  {
+    "question": "What's your email for inquiries?",
+    "answer": "The email for inquiries at Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "Can you share your email for communication?",
+    "answer": "Yes, Cozentus' email for communication is supplychain@cozentus.com."
+  },
+  {
+    "question": "How do I contact you by email?",
+    "answer": "You can contact Cozentus by email at supplychain@cozentus.com."
+  },
+  {
+    "question": "Can you provide an email address?",
+    "answer": "The email address for Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "Where can I find your email?",
+    "answer": "You can find the email for Cozentus at supplychain@cozentus.com."
+  },
+  {
+    "question": "Is there an email address I can use to reach you?",
+    "answer": "Yes, you can use supplychain@cozentus.com to reach Cozentus."
+  },
+  {
+    "question": "What email should I use for questions?",
+    "answer": "You should use supplychain@cozentus.com for questions."
+  },
+  {
+    "question": "How do I reach out to you via email?",
+    "answer": "You can reach out to Cozentus via email at supplychain@cozentus.com."
+  },
+  {
+    "question": "Do you have an email contact?",
+    "answer": "Yes, the email contact for Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "What's your email for business inquiries?",
+    "answer": "The email for business inquiries at Cozentus is supplychain@cozentus.com."
+  },
+  {
+    "question": "What is your contact number?",
+    "answer": "The contact number for Cozentus is +91 977 712 6600."
+  },
+  {
+    "question": "How can I call you?",
+    "answer": "You can call Cozentus at +91 977 712 6600."
+  },
+  {
+    "question": "Do you have a phone number I can use?",
+    "answer": "Yes, the phone number for Cozentus is +91 977 712 6600."
+  },
+  {
+    "question": "Can I contact you by phone?",
+    "answer": "Yes, you can contact Cozentus by phone at +91 977 712 6600."
+  }
+{
+    "question": "What is growth of Cozentus?",
+    "answer": "Cozentus is a pioneering provider of innovative business solutions, revolutionizing operational efficiency for enterprises in the logistics and supply chain management sectors. They have achieved a 100% customer retention rate, 100% service level agreement compliance, and maintain a 24x7 humanized support system. They boast a 20k+ customer satisfaction score with an average resolution time of 15 minutes. Cozentus has mastered and applied 70% of relevant technologies, ensuring agile delivery and flexible engagement models."
+  },
+  {
+    "question": "How do I reach you via phone?",
+    "answer": "You can reach Cozentus via phone by calling +91 977 712 6600 (India)."
+  },
+  {
+    "question": "What's the best phone number to reach your team?",
+    "answer": "The best phone number to reach the Cozentus team is +91 977 712 6600 (India)."
+  },
+  {
+    "question": "Can you provide your contact number?",
+    "answer": "Yes, the contact number for Cozentus is +91 977 712 6600 (India)."
+  },
+  {
+    "question": "What phone number should I use to get in touch?",
+    "answer": "You should use the phone number +91 977 712 6600 (India) to get in touch with Cozentus."
+  },
+  {
+    "question": "How do I make a call to your team?",
+    "answer": "To make a call to the Cozentus team, dial +91 977 712 6600 (India)."
+  },
+  {
+    "question": "What's your contact number for inquiries?",
+    "answer": "The contact number for inquiries at Cozentus is +91 977 712 6600 (India)."
+  },
+  {
+    "question": "Can you share your phone number for communication?",
+    "answer": "Yes, the phone number for communication with Cozentus is +91 977 712 6600 (India)."
+  },
+  {
+    "question": "How do I contact you by phone?",
+    "answer": "You can contact Cozentus by phone at +91 977 712 6600 (India)."
+  },
+  {
+    "question": "Can you provide a phone number?",
+    "answer": "Yes, the phone number for Cozentus is +91 977 712 6600 (India)."
+  },
+  {
+    "question": "Where can I find your contact number?",
+    "answer": "You can find the contact number for Cozentus in their contact information: +91 977 712 6600 (India)."
+  },
+  {
+    "question": "Is there a phone number I can use to reach you?",
+    "answer": "Yes, you can reach Cozentus at +91 977 712 6600 (India)."
+  },
+  {
+    "question": "What phone number should I use for questions?",
+    "answer": "For questions, you should use the phone number +91 977 712 6600 (India) to contact Cozentus."
+  },
+  {
+    "question": "How do I reach out to you via phone?",
+    "answer": "To reach out to Cozentus via phone, call +91 977 712 6600 (India)."
+  },
+  {
+    "question": "Do you have a contact number?",
+    "answer": "Yes, the contact number for Cozentus is +91 977 712 6600 (India)."
+  },
+  {
+    "question": "How can I reach out to you?",
+    "answer": "You can reach out to Cozentus by phone at +91 977 712 6600 (India) or email at supplychain@cozentus.com."
+  },
+  {
+    "question": "What are your contact options?",
+    "answer": "Cozentus can be contacted by phone at +91 977 712 6600 (India), by email at supplychain@cozentus.com, or by visiting their office at SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "How do I connect with you?",
+    "answer": "You can connect with Cozentus via phone at +91 977 712 6600 (India), email at supplychain@cozentus.com, or visit their office at SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "How can I contact your team?",
+    "answer": "You can contact the Cozentus team by phone at +91 977 712 6600 (India) or email at supplychain@cozentus.com."
+  },
+  {
+    "question": "How do I schedule a consultation?",
+    "answer": "To schedule a consultation with Cozentus, you can call +91 977 712 6600 (India) or email supplychain@cozentus.com."
+  },
+  {
+    "question": "Where can I find your contact information?",
+    "answer": "You can find Cozentus's contact information on their website or use the following details: phone +91 977 712 6600 (India), email supplychain@cozentus.com, and address SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "How do I get in touch with your representatives?",
+    "answer": "You can get in touch with Cozentus representatives by calling +91 977 712 6600 (India) or emailing supplychain@cozentus.com."
+  },
+  {
+    "question": "Can I book a meeting with you?",
+    "answer": "Yes, you can book a meeting with Cozentus by calling +91 977 712 6600 (India)."
+  },
+  {
+    "question": "How do I request a call from your team?",
+    "answer": "To request a call from the Cozentus team, you can dial +91 977 712 6600 (India)."
+  },
+  {
+      "question":"how many offices of cozentus are there worldwide?",
+      "answer":"There are 3 offices of cozentus are there across the globe two in india and one in United Kingdon(UK)."
+  },
+  {
+      "question":"what is the office address in Bhubaneswar?",
+      "answer":"SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+      "question":"what is the office address in Bangalore?",
+      "answer":"Galaxy, MG Road, WeWork Galaxy, 43, Residency Rd, Bangalore 560025 Karnataka, India."
+  },
+  {
+      "question":"what is the office address in United Kingdom?",
+      "answer":"Ground Floor, Hygeia Building, 66-68 College Road, Harrow Middlesex, HA1 1BE, United Kingdom."
+  },
+  {
+      "question":"what are the office locations in india",
+      "answer":"There are two offices located in INDIA at Bhubaneswar,Odisha and Bangalre,Karnataka.
+  {
+    "question": "How do I inquire about your services?",
+    "answer": "You can inquire about Cozentus's services by calling +91 977 712 6600 (India) or emailing supplychain@cozentus.com."
+  },
+  {
+    "question": "What's the procedure to contact you?",
+    "answer": "The procedure to contact Cozentus is to call +91 977 712 6600 (India) or email supplychain@cozentus.com."
+  },
+  {
+    "question": "How do I set up a call with you?",
+    "answer": "To set up a call with Cozentus, you can dial +91 977 712 6600 (India)."
+  },
+  {
+    "question": "What are the ways to contact your company?",
+    "answer": "You can contact Cozentus by phone at +91 977 712 6600 (India), by email at supplychain@cozentus.com, or visit their office at SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "How can I get in contact with your experts?",
+    "answer": "You can get in contact with Cozentus experts by calling +91 977 712 6600 (India) or emailing supplychain@cozentus.com."
+  },
+  {
+    "question": "Where can I find your office location?",
+    "answer": "The office location of Cozentus is SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "What are your contact details?",
+    "answer": "Cozentus contact details are: phone +91 977 712 6600 (India), email supplychain@cozentus.com, and office address SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "How do I initiate a conversation with you?",
+    "answer": "You can initiate a conversation with Cozentus by calling +91 977 712 6600 (India) or emailing supplychain@cozentus.com."
+  },
+  {
+    "question": "Can I arrange a discussion with you?",
+    "answer": "Yes, you can arrange a discussion with Cozentus by calling +91 977 712 6600 (India)."
+  },
+  {
+    "question": "How do I engage with your team?",
+    "answer": "To engage with the Cozentus team, call +91 977 712 6600 (India) or email supplychain@cozentus.com."
+  },
+  {
+    "question": "How do I arrange a visit to your office?",
+    "answer": "To arrange a visit to Cozentus's office, you can contact them at +91 977 712 6600 (India) or visit SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India."
+  },
+  {
+    "question": "How do I send an inquiry to your team?",
+    "answer": "You can send an inquiry to the Cozentus team by emailing supplychain@cozentus.com."
+  },
+  {
+    "question": "What's the process to reach out to you?",
+    "answer": "The process to reach out to Cozentus is to call +91 977 712 6600 (India) or email supplychain@cozentus.com."
+  },
+  {
+    "question": "How do I get more information from your team?",
+    "answer": "To get more information from the Cozentus team, you can call +91 977 712 6600 (India) or email supplychain@cozentus.com."
+  },
+  {
+    "question": "What does Cozentus do?",
+    "answer": "Cozentus provides innovative business solutions for the logistics and supply chain management sectors. Their services include Enterprise Data Management, Integrations, Testing as a Service, Data Lifecycle Management, Advanced Analytics, Maintenance and Support, and EDI."
+  },
+  {
+    "question": "Who are the people behind Cozentus?",
+    "answer": "The leadership team of Cozentus includes Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), Rosalin Mohanty (CGO and Co-Founder), Rajesh Sharma (EVP - Operations), Sudhir Mardikar (EVP - Data Practice), Ranjeet Das (EVP - Technology), Siddharth Bihari (AVP - EDI Practice Lead), and Nirupama Ojha (General Manager)."
+  },
+  {
+    "question": "Why should I choose Cozentus?",
+    "answer": "You should choose Cozentus for their expertise, client-centric approach, cost savings, improved efficiency, unparalleled customer experience, 100% customer retention rate, 100% service level agreement compliance, 24x7 humanized support, high customer satisfaction score, agile delivery model, and flexible engagement model."
+  },
+  {
+    "question": "What makes Cozentus special?",
+    "answer": "Cozentus is special due to its pioneering role in providing innovative business solutions for logistics and supply chain management, its commitment to quality, client-centric approach, high customer retention, and its mastery of relevant technologies."
+  },
+  {
+    "question": "What is Cozentus all about?",
+    "answer": "Cozentus is focused on revolutionizing operational efficiency for logistics and supply chain management enterprises through innovative business solutions. They specialize in Enterprise Data Management, Integrations, Testing as a Service, Data Lifecycle Management, Advanced Analytics, Maintenance and Support, and EDI."
+  },
+  {
+    "question": "What is Cozentus' mission?",
+    "answer": "Cozentus's mission is to enable businesses to move to the next level by delivering innovative digital SCM solutions."
+  },
+  {
+    "question": "What is Cozentus' vision?",
+    "answer": "Enabling businesses to move to the next level by delivering innovative digital SCM solutions"
+  },
+  {
+    "question": "What are Cozentus' values?",
+    "answer": "Cozentus's core values are pride, commitment, quality, and transparency."
+  },
+  {
+    "question": "Who leads Cozentus?",
+    "answer": "Cozentus is led by Devesh Sinha (CEO and Founder), Shailendra Upadhyay (COO and Co-Founder), and Rosalin Mohanty (CGO and Co-Founder), among other key executives."
+  },
+  {
+    "question": "How did Cozentus start?",
+    "answer": "Cozentus was founded by Devesh Sinha, Shailendra Upadhyay, and Rosalin Mohanty, leveraging their extensive experience in IT, supply chain management, and business growth in 2019."
+  },
+  {
+    "question": "When was Cozentus founded?",
+    "answer": "Cozentus founded in 2019 year"
+  },
+  {
+    "question": "What has Cozentus achieved?",
+    "answer": "Cozentus has achieved 10X growth in last three years and 250+ man years of collective senior management experience in logistics and 20+ digital transformation."
+  },
+{
+    "question": "How many employess in cozentus?",
+    "answer": "There are 250+ employees in cozentus."
+  },
+{
+      "question": "What industries does Cozentus specialize in?",
+      "answer": "Cozentus specializes in logistics and supply chain management sectors."
+    },
+{
+      "question": "What services does Cozentus provide?",
+      "answer": "Cozentus provides services Dgital services and Development Services ."
+    },
+{
+      "question": "What are Cozentus' core values?",
+      "answer": "Cozentus' core values are pride, commitment, quality, and transparency."
+    },
+{
+       "question":"what are the services provided by cozentus",
+       "answer":"Cozentus offers a number of development services and digital services."
+       },
+{
+      "question": "What are the offerings of Cozentus?",
+      "answer": "Cozentus offers a number of development services and digital services."
+    },
+{ 
+       "question":"what are the DIGITAL services offered by cozentus"
+       "answer":"The Digital Services provided by cozentus are Enterprise Data Management Services,Integrations,Testing as a Service,Data Lifecycle Management,Advanced                  Analytics,EDI"
+    },
+{
+       "question":"what are the DEVELOPMENT services offered by cozentus",
+       "answer":"The Development Services provided by Cozentus are Logistics Documnet Processing,Shipment Visibility,Risk Monitoring,Bill of                                            Lading,FreightAudit,Quotation Management,Predict ETA,Carrier Selection and Booking,Contract Management Services,Drayage and Yard Management"
+       }
+{
+        "question":"what is Enterprise Data Management Services",
+        "answer":"Enterprise Data Management Services: Collect, clean, validate, and transform data for a single source of truth in supply chain intelligence"                  
+        },
+{
+        "question":"what is Integration",
+        "answer":"Integrations: Seamlessly connect and optimize supply chain operations with EDI, API, and system integrations to enhance data flow, streamline processes"
+        },
+{
+        "question":"what is Testing as a Service",
+        "answer":"Testing as a Service: Customized testing approach for supply chain systems driving digital transformation,fostering accelerated growth,and maximizin efficiency."
+        },
+{
+        "question":"what is Data Lifecycle Management",
+        "answer":"Data Lifecycle Management: Embrace AI-driven tools and sophisticated strategies for agile, responsive supply chains."
+        },
+{
+        "qusetion":"what is Advanced Analytics",
+        "answer":"Advanced Analytics : Enhancing ocean freight efficiency with advanced, AI-driven analytics.Maintenance and Support: Leveraging Technology Expertise for Optimized System Performance."
+        },
+{
+        "question":"what is EDI",
+        "answer":"EDI: Offers a comprehensive, value-centric approach by identifying intervention areas, crafting bespoke business cases, and integrating advanced analytics and machine learning"
+        },
+ {
+    "question": "Can you tell me about Cozentus?",
+    "answer": "Cozentus is a leading provider of innovative business solutions that enhance operational efficiency for enterprises in logistics and supply chain management. Their mission is to enable businesses to move to the next level by delivering innovative digital SCM solutions."
+  },
 
-nomenclature
-COO - Chief Operating Officer
-CEO - Chief Executive Officer
-CGO - Chief Growth Officer
-coo - Chief Operating Officer
-ceo - Chief Executive Officer
-cgo - Chief Growth Officer
-evp - Executive Vice President
-EVP - Executive Vice President
-avp - Associate Vice President
-AVP - Associate Vice President
-
-what is Cozentus
-Cozentus emerges as a pioneering provider of innovative business solutions, revolutionizing operational efficiency for enterprises operating within the logistics       and supply chain management sectors. Our expertise lies in constructing and enhancing the value chain of logistics companies, tailoring our services to align with     our client’s unique business objectives, and leveraging the industry-led and emerging technologies.
-
-Cozentus's Mission
-Enabling businesses to move to the next level by delivering innovative digital SCM solutions.
-
-Cozentus's Core Values
-pride,commitment,quality,transparency
-
-Cozentus's Culture
-Delivering quality through a confluence of experience and innovation.
-
-
-Why Choose Cozentus?
-Expertise and technology are brought to the table.
-Client-centric approach prioritizes your needs and objectives.
-Enables cost savings, improved efficiency, and an unparalleled customer experience.
-Reduces go-to-market time and delivers higher revenue.
-100% Customer retention rate.
-100% Service level agreement compliance.
-24x7 Humanized support/incidence report time.
-20k+ Customer satisfaction score.
-15 min Average resolution time.
-Flexible Engagement model.
-Agile Delivery model.
-70% Technologies mastered and applied.
-
-Contact Cozentus
-Schedule a Meeting: +91 977 712 6600 (India).
-Email: supplychain@cozentus.com.
-Address: SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India.
-
-Cozentus Locations
-Bhubaneswar, India - SRB Tower, 5th and 6th Floor, Infocity, Bhubaneswar -751024, Odisha, India.
-Bengaluru, India - Galaxy, MG Road, WeWork Galaxy, 43, Residency Rd, Bangalore 560025 Karnataka, India.
-Europe - Ground Floor, Hygeia Building, 66-68 College Road, Harrow Middlesex, HA1 1BE, United Kingdom.
-
-
-Cozentus Core Team
-
-Cozentus Management and Leadership Team
-Devesh Sinha - CEO(Chief Executive Officer) and Founder of cozentus.
-Devesh is a seasoned tech entrepreneur with over 30 years of experience in IT, General Management, and Entrepreneurship. He has a strong background in delivering efficient business solutions in Supply Chain Management and Logistics to the US, UK, and other European markets. Devesh is a leader, speaker, and business consultant, and he also serves on the boards of several Government and Non-government organizations. He holds a B Tech degree from NIT Jamshedpur and is known for his self-discipline.his linkedin 'https://www.linkedin.com/in/devesh-sinha-5b835a/'
-Shailendra Upadhyay - COO(Chief Operating Officer) and Co-Founder of cozentus.
-Shailendra, also known as Shailu, is a highly experienced professional with over two decades of expertise in the domains of manufacturing, steel industry, telecom, power generation, healthcare, supply chain, and logistics. As the co-founder and Chief of Operations at Cozentus, he possesses a deep understanding of these industries, allowing him to foster valuable relationships with global logistics providers. Shailu's diverse background includes stakeholder management, business domain understanding, delivery management, project management, and requirement management. He holds a B.E. in Mechanical Engineering from Karnataka University and firmly believes in the principle of understanding others before seeking to be understood.his linkedin 'https://www.linkedin.com/in/shailendra-upadhyay-21769a4/'
-Rosalin Mohanty - CGO(Chief Growth Officer) and Co-Founder of cozentus.
-Rosalin Mohanty, the proud recipient of the National HRD Women Leadership Award and a certified life and leadership coach, performs a dual role at Cozentus. As a founding member, she drives business growth attracting supply chain service providers to partner with Cozentus while also building and maintaining strong internal teams. With over two decades of experience in developing leadership training interventions across diverse industries like Telecom, Communications, IT, and manufacturing, Rosalin understands how supply chains work and has a strong knowledge of IT and other technologies. She is a strategic planner, an effective business developer, and an efficient business growth executive. Rosalin holds an MBA from the Utkal University in Odisha India and possesses a heart of gold. Cozentus is proud to have her on board.her linkedin 'https://www.linkedin.com/in/rosalinmohanty/'.
-Rajesh Sharma - EVP(Executive Vice President) - Operations of cozentus.
-Rajesh Sharma is the Executive Vice President at Cozentus. With 25+ years of experience in Software Product Strategy, Product Planning, Product Management, Product Development, Application Development & Maintenance, Delivery Management and Pre-sales, he has a solid foundation in creating succesful business plans and strategy .his linkedin 'https://www.linkedin.com/in/rajeshsharma4/'
-Sudhir Mardikar - EVP(Executive Vice President) and Head of Data Practice of cozentus.
-Sudhir heads the Data Analytics and BI practice at Cozentus. With over 20 years of experience in data related technologies, his expertise in designing & developing data warehousing & BI system for logistics & supply chain customers is an asset for Cozentus.his linkedin 'https://www.linkedin.com/in/mardikar/'
-Ranjeet Das - EVP(Executive Vice President) and Head of Technology of cozentus.
-Ranjeet is the Senior Technical Architect at Cozentus. His expertise lies in innovating while creating and designing large enterprise web-based applications, leveraging the various technologies for on-premise as well as cloud hosting.his linkedin 'https://www.linkedin.com/in/ranjeetdas/'
-Siddharth Bihari - AVP(Associate Vice President) and EDI Practice Lead of cozentus.
-Siddharth Kumar Bihari is the Associate Vice President at Cozentus. He has 13+ years of industry experience in Development & Support under EDI technology.  His functional Knowledge and Business Domain Experience: SCM, Logistics is a great asset for any business.his linkedin 'https://www.linkedin.com/in/siddharth-kumar-bihari-ba29a35a'
-Nirupama Ojha - General Manager of cozentus.
-Nirupama is a Senior Technical Architect at Cozentus. She is an innovator with an experience in creating and designing large enterprise web applications using various technologies for on-premise and cloud hosting.her linkedin 'https://in.linkedin.com/in/nirupama-ojha-123bb965'.
-
-Attributes Cozentus Value
-    *Success-driven - Focused on achieving professional growth and success.
-    *Committed - Committed to surmounting every obstacle.
-    *Troubleshooter - Able to plan and design in a stress-free ambience.
-    *Transparent - Believes in complete transparency and free flow of information.
-
-Cozentus List of All Available Job Openings 
-Senior UI Developer (Core Skills: UI and Angular, Experience: 4-8 years)
-Java Senior Software Developer (Core Skills: Java, Microservices, Angular, Spring Framework, Experience: 4-7 years)
-Java Module Lead (Core Skills: Java, Microservices, Angular, Spring Framework, Experience: 8-12 years)
-Lead QC - Automation (Core Skills: Java, Selenium, Experience: 8-12 years)
-Senior QC Engineer (Automation) (Core Skills: Java, Selenium, Experience: 4-7 years)
-Java Technical Architect (Core Skills: Enterprise level design, architecture, Experience: 12-15 years)
-Senior Azure Developer (Core Skills: .Net and Azure, Experience: 5-8 years)
-Senior PHP Developer (Core Skills: PHP, Laravel, Experience: 4-8 years)
-Marketing Head (Core Skills: Marketing, GTM strategy, ABM, Content Strategy, Digital Marketing, Experience: 10-15 years)
-DevOps Lead (Core Skills: DevOps, AWS, Terraform, Experience: 10-15 years)
-Senior Graphic Designer (Core Skills: Graphic Designing, Photoshop, video making, Experience: 4-5 years)
-Senior EDI Developer (Core Skills: EDI, Seeburger BIC & BIS tool, Seeburger Front-end Configuration, Monitoring, Queuing, Experience: 7-10 years)
-Senior D 365 Developer (Core Skills: D365 FO, Finance Module, Connectivity Studio, Data Model, Power App, X++, Data Management, Experience: 5-10 years)
-BI Developer (Core Skills: Database Development (Any), Dataware Housing, BI reporting (Any), Cloud Technology (Any), Experience: 3-5 years)
-Senior BI Developer (Core Skills: Database Development (Any), Dataware Housing, BI reporting (Any), Cloud Technology (Any), Experience: 5-10 years).
-
-
-what cozetnus do or what are services offered by cozentus:
-The Below list contains information about all offerings and services provided by cozentus
-Enterprise Data Management Services: Collect, clean, validate, and transform data for a single source of truth in supply chain intelligence.
-Integrations: Seamlessly connect and optimize supply chain operations with EDI, API, and system integrations to enhance data flow, streamline processes.
-Testing as a Service: Customized testing approach for supply chain systems driving digital transformation, fostering accelerated growth, and maximizing                efficiency.
-Data Lifecycle Management: Embrace AI-driven tools and sophisticated strategies for agile, responsive supply chains.
-Advanced Analytics: Enhancing ocean freight efficiency with advanced, AI-driven analytics.
-Maintenance and Support: Leveraging Technology Expertise for Optimized System Performance.
-EDI: Offers a comprehensive, value-centric approach by identifying intervention areas, crafting bespoke business cases, and integrating advanced analytics and          machine learning.
-
-Specialization: Delivering bespoke solutions to optimize operations and foster growth.
-
-Focus: Understanding customer challenges and seamlessly integrating with existing systems.
+       
+    
+   
