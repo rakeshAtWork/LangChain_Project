@@ -13,7 +13,7 @@ avp - Associate Vice President
 AVP - Associate Vice President
 
 what is Cozentus
-Cozentus emerges as a pioneering provider of innovative business solutions, revolutionizing operational efficiency for enterprises operating within the logistics       and supply chain management sectors. Our expertise lies in constructing and enhancing the value chain of logistics companies, tailoring our services to align with     our client’s unique business objectives, and leveraging the industry-led and emerging technologies.
+Cozentus emerges as a pioneering provider of innovative business solutions, revolutionizing operational efficiency for enterprises operating within the logistics and supply chain management sectors. Our expertise lies in constructing and enhancing the value chain of logistics companies, tailoring our services to align with     our client’s unique business objectives, and leveraging the industry-led and emerging technologies.
 
 Cozentus's Mission
 Enabling businesses to move to the next level by delivering innovative digital SCM solutions.
@@ -23,6 +23,20 @@ pride,commitment,quality,transparency
 
 Cozentus's Culture
 Delivering quality through a confluence of experience and innovation.
+
+About COZENTUS foundation
+cozentus foundation year: 2019
+cozentus founded in 2019 year.
+in 2019, cozentus was founded.
+
+Number of employees
+team size of cozentus: 200+
+number of employees work in cozentus: 200+
+how many employees are there in cozentus: 200+
+
+success of cozentus
+growth or achievement of cozentus : 10X growth in 3 year
+what is growth of cozentus: 10X in 3 year
 
 
 Why Choose Cozentus?
@@ -53,7 +67,8 @@ Europe - Ground Floor, Hygeia Building, 66-68 College Road, Harrow Middlesex, HA
 Cozentus Core Team
 
 Cozentus Management and Leadership Team
-Devesh Sinha - CEO(Chief Executive Officer) and Founder of cozentus.
+
+Devesh Sinha CEO(Chief Executive Officer) and Founder of cozentus.
 Devesh is a seasoned tech entrepreneur with over 30 years of experience in IT, General Management, and Entrepreneurship. He has a strong background in delivering efficient business solutions in Supply Chain Management and Logistics to the US, UK, and other European markets. Devesh is a leader, speaker, and business consultant, and he also serves on the boards of several Government and Non-government organizations. He holds a B Tech degree from NIT Jamshedpur and is known for his self-discipline.his linkedin 'https://www.linkedin.com/in/devesh-sinha-5b835a/'
 Shailendra Upadhyay - COO(Chief Operating Officer) and Co-Founder of cozentus.
 Shailendra, also known as Shailu, is a highly experienced professional with over two decades of expertise in the domains of manufacturing, steel industry, telecom, power generation, healthcare, supply chain, and logistics. As the co-founder and Chief of Operations at Cozentus, he possesses a deep understanding of these industries, allowing him to foster valuable relationships with global logistics providers. Shailu's diverse background includes stakeholder management, business domain understanding, delivery management, project management, and requirement management. He holds a B.E. in Mechanical Engineering from Karnataka University and firmly believes in the principle of understanding others before seeking to be understood.his linkedin 'https://www.linkedin.com/in/shailendra-upadhyay-21769a4/'
@@ -76,7 +91,7 @@ Attributes Cozentus Value
     *Troubleshooter - Able to plan and design in a stress-free ambience.
     *Transparent - Believes in complete transparency and free flow of information.
 
-Cozentus List of All Available Job Openings 
+Cozentus List of All Available Job Openings
 Senior UI Developer (Core Skills: UI and Angular, Experience: 4-8 years)
 Java Senior Software Developer (Core Skills: Java, Microservices, Angular, Spring Framework, Experience: 4-7 years)
 Java Module Lead (Core Skills: Java, Microservices, Angular, Spring Framework, Experience: 8-12 years)
@@ -94,16 +109,17 @@ BI Developer (Core Skills: Database Development (Any), Dataware Housing, BI repo
 Senior BI Developer (Core Skills: Database Development (Any), Dataware Housing, BI reporting (Any), Cloud Technology (Any), Experience: 5-10 years).
 
 
-what cozetnus do or what are services offered by cozentus:
+what cozentus do or what are services offered by cozentus:
 The Below list contains information about all offerings and services provided by cozentus
 Enterprise Data Management Services: Collect, clean, validate, and transform data for a single source of truth in supply chain intelligence.
-Integrations: Seamlessly connect and optimize supply chain operations with EDI, API, and system integrations to enhance data flow, streamline processes.
+Integrations services: Seamlessly connect and optimize supply chain operations with EDI, API, and system integrations to enhance data flow, streamline processes.
 Testing as a Service: Customized testing approach for supply chain systems driving digital transformation, fostering accelerated growth, and maximizing                efficiency.
-Data Lifecycle Management: Embrace AI-driven tools and sophisticated strategies for agile, responsive supply chains.
-Advanced Analytics: Enhancing ocean freight efficiency with advanced, AI-driven analytics.
-Maintenance and Support: Leveraging Technology Expertise for Optimized System Performance.
-EDI: Offers a comprehensive, value-centric approach by identifying intervention areas, crafting bespoke business cases, and integrating advanced analytics and          machine learning.
+Data Lifecycle Management services: Embrace AI-driven tools and sophisticated strategies for agile, responsive supply chains.
+Advanced Analytics services: Enhancing ocean freight efficiency with advanced, AI-driven analytics.
+Maintenance and Support services: Leveraging Technology Expertise for Optimized System Performance.
+EDI services: Offers a comprehensive, value-centric approach by identifying intervention areas, crafting bespoke business cases, and integrating advanced analytics and          machine learning.
 
 Specialization: Delivering bespoke solutions to optimize operations and foster growth.
 
 Focus: Understanding customer challenges and seamlessly integrating with existing systems.
+
