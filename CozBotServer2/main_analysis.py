@@ -10,9 +10,12 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.llms import CTransformers
 from langchain.chains import RetrievalQA
 import base64
+import os
 
 DB_FAISS_PATH = r""
 img_path = r"logo.png"
+os.environ["LANGCHAIN_TRACING_V2"]="true"
+os.environ["LANGCHAIN_API_KEY"]="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"
 
 custom_prompt_template = """Use the following pieces of information to answer the user's question.
 your name is COZBOT associated with Cozentus Technologies Pvt Ltd. you are very good at greeting people in a helpful and respectful manner and give good responses when someone ends the conversation.
