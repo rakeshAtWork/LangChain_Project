@@ -1,11 +1,9 @@
 import streamlit as st
 import requests
 import base64
+import time
 
 img_path = r"logo2.png"
-
-# Streamlit interface
-
 
 # Function to send a message to the Rasa bot
 def send_message(message):
@@ -15,23 +13,7 @@ def send_message(message):
     )
     return response.json()
 
-# # Text input for the user
-# user_message = st.text_input("You: ", "")
-
-# # Display bot response
-# if st.button("Send"):
-#     if user_message:
-#         response = send_message(user_message)
-#         if response:
-#             for res in response:
-#                 st.text(f"Bot: {res['text']}")
-#         else:
-#             st.text("Bot: No response received")
-
-
-
-# Our Running Code :
-
+# Load the binary of the logo data
 def get_base64_of_bin_file(bin_file):
     with open(bin_file, 'rb') as f:
         data = f.read()
@@ -45,6 +27,12 @@ st.set_page_config(page_title="CozBot", page_icon=":robot_face:")
 
 img_base64 = get_base64_of_bin_file(img_path)
 
+# Streamed response emulator : this function used for the stream output functionality.
+def response_generator(res):
+    for word in res.split():
+        yield word + " "
+        time.sleep(0.03)
+        
 # Add CSS for fixed header
 st.markdown(
     """
@@ -92,17 +80,24 @@ if user_input := st.chat_input("Hello?"):
     print(user_input)
 
     with st.spinner('Thinking ...'):
-        response = send_message(user_input)
+        try:
+            response = send_message(user_input)
+        except:
+            response = "Unable to connect with the CozBot Server. Please try later."
 
     print(response)
     with st.chat_message("assistant"):
         if len(response) !=0:
-        
-            st.markdown(response[0]['text'])
-            st.session_state.messages.append({"role": "assistant", "content": response[0]['text']})
+            try:
+                res1=response[0]['text']
+            except:
+                res1 = "Unable to connect with the CozBot Server. Please try later."
+                print("Not able to retvie data due to bad index")
+            st.write_stream(response_generator(res1))
+            st.session_state.messages.append({"role": "assistant", "content": res1})
         else:
        
-            st.markdown("Didn't Understand. Ask Something else?..")
+            st.write_stream(response_generator("Didn't Understand. Ask Something else?.."))
             # st.session_state.messages.append("..")        
 
 st.markdown('</div>', unsafe_allow_html=True)
